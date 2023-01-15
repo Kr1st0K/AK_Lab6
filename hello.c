@@ -6,7 +6,7 @@
 #include <linux/ktime.h>
 #include <linux/slab.h>
 
-MODULE_AUTHOR("Retyvykh Kostyantyh");
+MODULE_AUTHOR("Pashchenko Dmytro");
 MODULE_DESCRIPTION("Laboratory №6");
 MODULE_LICENSE("Dual BSD/GPL");
 
